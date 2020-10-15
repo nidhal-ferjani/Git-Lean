@@ -32,7 +32,7 @@ class Calculator:
     def _check_operand(self, operand):
         """Check that the operand is a number."""
         if not isinstance(operand, numbers.Number):
-            raise CalculatorError(f'"{operand}" is not a number.')
+            raise CalculatorError(f'"{operand}" is not a number mahich shiha.')
 
 
 if __name__ == "__main__":
