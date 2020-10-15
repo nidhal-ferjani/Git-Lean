@@ -61,4 +61,4 @@ if __name__ == "__main__":
         try:
             print("The result is: {}\n".format(operations[operation](a, b)))
         except CalculatorError as error:
-            print("l'erreur :" + error)
+            print("l'erreur : {error}")
