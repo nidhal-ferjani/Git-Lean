@@ -1,1 +1,6 @@
 Bonjour je suis nidhal premiere commit
+
+
+je suis entrain comme etant seconde user de changer l'etant
+du fichier log2.txt directement sur la branche master oui avec plaisir 
+biensur c'est dommage de modifier le fichier courant
